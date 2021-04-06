@@ -35,7 +35,7 @@ from pandas import Series,DataFrame
 import glob
 
 ```
-
+<!---
     
     Bad key "text.kerning_factor" on line 4 in
     D:\ProgramData\Anaconda3\lib\site-packages\matplotlib\mpl-data\stylelib\_classic_test_patch.mplstyle.
@@ -43,7 +43,7 @@ import glob
     https://github.com/matplotlib/matplotlib/blob/v3.1.2/matplotlibrc.template
     or from the matplotlib source distribution
     
-
+-->
 
 ```python
 #Dieser Import ist nur um Plotting Funktionen schnell und übersichtlich hier einbringen zu können
@@ -136,37 +136,37 @@ for imName in ['im1','im2','im3','im4','im5','im6']:
 
 
     
-![png](output_16_0.png)
+![png](images/output_16_0.png)
     
 
 
 
     
-![png](output_16_1.png)
+![png](images/output_16_1.png)
     
 
 
 
     
-![png](output_16_2.png)
+![png](images/output_16_2.png)
     
 
 
 
     
-![png](output_16_3.png)
+![png](images/output_16_3.png)
     
 
 
 
     
-![png](output_16_4.png)
+![png](images/output_16_4.png)
     
 
 
 
     
-![png](output_16_5.png)
+![png](images/output_16_5.png)
     
 
 
@@ -221,73 +221,73 @@ daf.do(mergedData)
 
 
     
-![png](output_23_0.png)
+![png](images/output_23_0.png)
     
 
 
 
     
-![png](output_23_1.png)
+![png](images/output_23_1.png)
     
 
 
 
     
-![png](output_23_2.png)
+![png](images/output_23_2.png)
     
 
 
 
     
-![png](output_23_3.png)
+![png](images/output_23_3.png)
     
 
 
 
     
-![png](output_23_4.png)
+![png](images/output_23_4.png)
     
 
 
 
     
-![png](output_23_5.png)
+![png](images/output_23_5.png)
     
 
 
 
     
-![png](output_23_6.png)
+![png](images/output_23_6.png)
     
 
 
 
     
-![png](output_23_7.png)
+![png](images/output_23_7.png)
     
 
 
 
     
-![png](output_23_8.png)
+![png](images/output_23_8.png)
     
 
 
 
     
-![png](output_23_9.png)
+![png](images/output_23_9.png)
     
 
 
 
     
-![png](output_23_10.png)
+![png](images/output_23_10.png)
     
 
 
 
     
-![png](output_23_11.png)
+![png](images/output_23_11.png)
     
 
 
@@ -305,7 +305,7 @@ daf.showAverage(mergedData)
 
 
     
-![png](output_25_0.png)
+![png](images/output_25_0.png)
     
 
 
@@ -333,145 +333,145 @@ hmf.f1()
 
 
     
-![png](output_29_0.png)
+![png](images/output_29_0.png)
     
 
 
 
     
-![png](output_29_1.png)
+![png](images/output_29_1.png)
     
 
 
 
     
-![png](output_29_2.png)
+![png](images/output_29_2.png)
     
 
 
 
     
-![png](output_29_3.png)
+![png](images/output_29_3.png)
     
 
 
 
     
-![png](output_29_4.png)
+![png](images/output_29_4.png)
     
 
 
 
     
-![png](output_29_5.png)
+![png](images/output_29_5.png)
     
 
 
 
     
-![png](output_29_6.png)
+![png](images/output_29_6.png)
     
 
 
 
     
-![png](output_29_7.png)
+![png](images/output_29_7.png)
     
 
 
 
     
-![png](output_29_8.png)
+![png](images/output_29_8.png)
     
 
 
 
     
-![png](output_29_9.png)
+![png](images/output_29_9.png)
     
 
 
 
     
-![png](output_29_10.png)
+![png](images/output_29_10.png)
     
 
 
 
     
-![png](output_29_11.png)
+![png](images/output_29_11.png)
     
 
 
 
     
-![png](output_29_12.png)
+![png](images/output_29_12.png)
     
 
 
 
     
-![png](output_29_13.png)
+![png](images/output_29_13.png)
     
 
 
 
     
-![png](output_29_14.png)
+![png](images/output_29_14.png)
     
 
 
 
     
-![png](output_29_15.png)
+![png](images/output_29_15.png)
     
 
 
 
     
-![png](output_29_16.png)
+![png](images/output_29_16.png)
     
 
 
 
     
-![png](output_29_17.png)
+![png](images/output_29_17.png)
     
 
 
 
     
-![png](output_29_18.png)
+![png](images/output_29_18.png)
     
 
 
 
     
-![png](output_29_19.png)
+![png](images/output_29_19.png)
     
 
 
 
     
-![png](output_29_20.png)
+![png](images/output_29_20.png)
     
 
 
 
     
-![png](output_29_21.png)
+![png](images/output_29_21.png)
     
 
 
 
     
-![png](output_29_22.png)
+![png](images/output_29_22.png)
     
 
 
 
     
-![png](output_29_23.png)
+![png](images/output_29_23.png)
     
 
 
@@ -488,37 +488,37 @@ hmf.f2()
 
 
     
-![png](output_32_0.png)
+![png](images/output_32_0.png)
     
 
 
 
     
-![png](output_32_1.png)
+![png](images/output_32_1.png)
     
 
 
 
     
-![png](output_32_2.png)
+![png](images/output_32_2.png)
     
 
 
 
     
-![png](output_32_3.png)
+![png](images/output_32_3.png)
     
 
 
 
     
-![png](output_32_4.png)
+![png](images/output_32_4.png)
     
 
 
 
     
-![png](output_32_5.png)
+![png](images/output_32_5.png)
     
 
 
@@ -536,25 +536,25 @@ hmf.f3()
 
 
     
-![png](output_35_0.png)
+![png](images/output_35_0.png)
     
 
 
 
     
-![png](output_35_1.png)
+![png](images/output_35_1.png)
     
 
 
 
     
-![png](output_35_2.png)
+![png](images/output_35_2.png)
     
 
 
 
     
-![png](output_35_3.png)
+![png](images/output_35_3.png)
     
 
 
@@ -571,7 +571,7 @@ hmf.f4()
 
 
     
-![png](output_38_0.png)
+![png](images/output_38_0.png)
     
 
 
@@ -591,37 +591,37 @@ hmf.bestImage()
 
 
     
-![png](output_41_0.png)
+![png](images/output_41_0.png)
     
 
 
 
     
-![png](output_41_1.png)
+![png](images/output_41_1.png)
     
 
 
 
     
-![png](output_41_2.png)
+![png](images/output_41_2.png)
     
 
 
 
     
-![png](output_41_3.png)
+![png](images/output_41_3.png)
     
 
 
 
     
-![png](output_41_4.png)
+![png](images/output_41_4.png)
     
 
 
 
     
-![png](output_41_5.png)
+![png](images/output_41_5.png)
     
 
 
@@ -636,7 +636,7 @@ hmf.im2_1()
 
 
     
-![png](output_43_0.png)
+![png](images/output_43_0.png)
     
 
 
@@ -651,7 +651,7 @@ hmf.im2_2()
 
 
     
-![png](output_45_0.png)
+![png](images/output_45_0.png)
     
 
 
@@ -675,73 +675,73 @@ skf.nominalAll()
 
 
     
-![png](output_49_0.png)
+![png](images/output_49_0.png)
     
 
 
 
     
-![png](output_49_1.png)
+![png](images/output_49_1.png)
     
 
 
 
     
-![png](output_49_2.png)
+![png](images/output_49_2.png)
     
 
 
 
     
-![png](output_49_3.png)
+![png](images/output_49_3.png)
     
 
 
 
     
-![png](output_49_4.png)
+![png](images/output_49_4.png)
     
 
 
 
     
-![png](output_49_5.png)
+![png](images/output_49_5.png)
     
 
 
 
     
-![png](output_49_6.png)
+![png](images/output_49_6.png)
     
 
 
 
     
-![png](output_49_7.png)
+![png](images/output_49_7.png)
     
 
 
 
     
-![png](output_49_8.png)
+![png](images/output_49_8.png)
     
 
 
 
     
-![png](output_49_9.png)
+![png](images/output_49_9.png)
     
 
 
 
     
-![png](output_49_10.png)
+![png](images/output_49_10.png)
     
 
 
 
     
-![png](output_49_11.png)
+![png](images/output_49_11.png)
     
 
 
@@ -761,73 +761,73 @@ skf.nominalEach()
 
 
     
-![png](output_52_0.png)
+![png](images/output_52_0.png)
     
 
 
 
     
-![png](output_52_1.png)
+![png](images/output_52_1.png)
     
 
 
 
     
-![png](output_52_2.png)
+![png](images/output_52_2.png)
     
 
 
 
     
-![png](output_52_3.png)
+![png](images/output_52_3.png)
     
 
 
 
     
-![png](output_52_4.png)
+![png](images/output_52_4.png)
     
 
 
 
     
-![png](output_52_5.png)
+![png](images/output_52_5.png)
     
 
 
 
     
-![png](output_52_6.png)
+![png](images/output_52_6.png)
     
 
 
 
     
-![png](output_52_7.png)
+![png](images/output_52_7.png)
     
 
 
 
     
-![png](output_52_8.png)
+![png](images/output_52_8.png)
     
 
 
 
     
-![png](output_52_9.png)
+![png](images/output_52_9.png)
     
 
 
 
     
-![png](output_52_10.png)
+![png](images/output_52_10.png)
     
 
 
 
     
-![png](output_52_11.png)
+![png](images/output_52_11.png)
     
 
 
@@ -844,25 +844,25 @@ skf.ordinal()
 
 
     
-![png](output_55_0.png)
+![png](images/output_55_0.png)
     
 
 
 
     
-![png](output_55_1.png)
+![png](images/output_55_1.png)
     
 
 
 
     
-![png](output_55_2.png)
+![png](images/output_55_2.png)
     
 
 
 
     
-![png](output_55_3.png)
+![png](images/output_55_3.png)
     
 
 
