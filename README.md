@@ -35,7 +35,7 @@ from pandas import Series,DataFrame
 import glob
 
 ```
-
+<!---
     
     Bad key "text.kerning_factor" on line 4 in
     D:\ProgramData\Anaconda3\lib\site-packages\matplotlib\mpl-data\stylelib\_classic_test_patch.mplstyle.
@@ -43,7 +43,7 @@ import glob
     https://github.com/matplotlib/matplotlib/blob/v3.1.2/matplotlibrc.template
     or from the matplotlib source distribution
     
-
+-->
 
 ```python
 #Dieser Import ist nur um Plotting Funktionen schnell und übersichtlich hier einbringen zu können
